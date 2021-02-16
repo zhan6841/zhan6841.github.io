@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Science and Engineering at University of Minnesota, Twin Cities.
+I am a Ph.D. student in the Department of Computer Science and Engineering at University of Minnesota, Twin Cities. I am fortunate to be advised by [Prof. Feng Qian](https://www-users.cs.umn.edu/~fengqian/).
 
 A data-driven personal website
 ======
