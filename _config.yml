@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anlan Zhang / Site Title"
+title                    : "Anlan Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Anlan Zhang"
 description              : &description "A Ph.D. Student at University of Minnesota, Twin Cities"
