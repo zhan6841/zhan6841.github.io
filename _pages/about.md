@@ -14,6 +14,11 @@ I got my B.E. degree from [School of Computer Science and Engineering](http://sc
 
 Email: zhan6841 *at* umn *dot* edu
 
+## Education
+
+- Aug. 2019 - Present Ph.D. Student, Department of Computer Science and Engineering, University of Minnesota, Twin Cities, USA
+- Sept. 2015 - Jun. 2019 B.E. Degree, School of Computer Science and Engineering, Beihang University, China
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
