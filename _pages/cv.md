@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Curriculum Vitae](https://drive.google.com/file/d/1jo77KpExX8TF3JWThZrN0sz258JZWnkJ/view?usp=sharing)
+[Curriculum Vitae](http://zhan6841.github.io/files/Anlan_Zhang_CV.pdf)
 
 <!-- {% include base_path %}
 
