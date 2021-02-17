@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Computer Science and Engineering](https://cse.umn.edu/cs) at [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/). I am very honored to be advised by [Prof. Feng Qian](https://www-users.cs.umn.edu/~fengqian/). My research interests include Mobile System, Mobile Network, Video Streaming, Volumetric Video, VR/AR. 
+I am a 2nd-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.umn.edu/cs) at [University of Minnesota, Twin Cities](https://twin-cities.umn.edu/). I am very honored to be advised by [Prof. Feng Qian](https://www-users.cs.umn.edu/~fengqian/). My research interests include Mobile System, Mobile Network, Video Streaming, Volumetric Video, VR/AR. 
 
-I got my B.E. degree from [School of Computer Science and Engineering](http://scse.buaa.edu.cn/English/Home.htm) at [Beihang University (BUAA), China](https://ev.buaa.edu.cn/), advised by [Prof. Lijun Zhang](http://scse.buaa.edu.cn/info/1122/2622.htm). I was also very fortunate to work as a research intern in [HKUST-DT System and Media Laboratory (SyMLab)](http://symlab.ust.hk/index.html) at [Hong Kong Unversity of Science and Technology](https://hkust.edu.hk/) under the supervision of [Prof. Pan Hui](http://www.cse.ust.hk/~panhui/) and [Dr. Tristan Braud](https://www.cse.ust.hk/~braudt/), and in [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/English/index.htm) at Beihang University under the supervision of [Prof. Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/).
+I got my B.E. degree in June 2019, from [School of Computer Science and Engineering](http://scse.buaa.edu.cn/English/Home.htm) at [Beihang University (BUAA), China](https://ev.buaa.edu.cn/), advised by [Prof. Lijun Zhang](http://scse.buaa.edu.cn/info/1122/2622.htm). I was also very fortunate to work as a research intern in [HKUST-DT System and Media Laboratory (SyMLab)](http://symlab.ust.hk/index.html) at [Hong Kong Unversity of Science and Technology](https://hkust.edu.hk/) under the supervision of [Prof. Pan Hui](http://www.cse.ust.hk/~panhui/) and [Dr. Tristan Braud](https://www.cse.ust.hk/~braudt/), and in [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/English/index.htm) at Beihang University under the supervision of [Prof. Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/).
 
 Email: zhan6841 *at* umn *dot* edu
-
-## Education
-
-- Aug. 2019 - Present Ph.D. Student, Department of Computer Science and Engineering, University of Minnesota, Twin Cities, USA
-- Sept. 2015 - Jun. 2019 B.E. Degree, School of Computer Science and Engineering, Beihang University, China
 
 <!-- A data-driven personal website
 ======
