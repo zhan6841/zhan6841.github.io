@@ -15,6 +15,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**[HotMobile21] Efficient VolumetricVideoStreamingThroughSuper Resolution**  
+*Anlan Zhang, Chendong Wang, Bo Han, Feng Qian*  
+To Appear In Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications(ACM HotMobile), 2021, Virtual.
+
+**[MobiSys20] Poster: Mobile VolumetricVideoStreamingEnhanced bySuper Resolution**  
+*Anlan Zhang, Chendong Wang, Xing Liu, Bo Han, Feng Qian*  
+In Proceedings of the 2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW),Macao, China.
+
+**[ICDEW19] Driving big data: A First Look at Driving BehaviorViaa Large-scalePrivateCar Dataset**  
+*Tong Li, Ahmad Alhilal, Anlan Zhang, Mohammad A Hoque, Dimitris Chatzopoulos, Zhu Xiao, Yong Li, Pan Hui*  
+In Proceedings of the 2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW),Macao, China.
+
 **[AAAI19] Perceptual-Sensitive GAN for Generating Adversarial Patches**  
-*Aishan Liu, Xianglong Liu, Jiaxin Fan, Yuqing Ma, **Anlan Zhang**, Huiyuan Xie, Dacheng Tao*  
+*Aishan Liu, Xianglong Liu, Jiaxin Fan, Yuqing Ma, Anlan Zhang, Huiyuan Xie, Dacheng Tao*  
 In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2019, Hawaii, USA.
