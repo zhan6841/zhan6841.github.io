@@ -3,8 +3,8 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+# redirect_from:
+#   - /resume
 ---
 
 [Curriculum Vitae](http://zhan6841.github.io/files/Anlan_Zhang_CV.pdf)
