@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anlan Zhang"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Computer Science and Engineering at University of Minnesota, Twin Cities. I am fortunate to be advised by [Prof. Feng Qian](https://www-users.cs.umn.edu/~fengqian/).
+I am a Ph.D. student in the Department of Computer Science and Engineering at University of Minnesota, Twin Cities. I am very honored to be advised by [Prof. Feng Qian](https://www-users.cs.umn.edu/~fengqian/). My research interests include Mobile System, Mobile Network, Video Streaming, Volumetric Video, VR/AR. I got my B.E. degree from School of Computer Science and Engineering at [Beihang University (BUAA)](https://ev.buaa.edu.cn/), advised by [Prof. Lijun Zhang](http://scse.buaa.edu.cn/info/1122/2622.htm). I was also very fortunate to work as a research intern in [HKUST-DT System and Media Laboratory (SyMLab)]((http://symlab.ust.hk/index.html)) at Hong Kong Unversity of Science and Technology under the supervision of [Prof. Pan Hui](http://www.cse.ust.hk/~panhui/) and [Dr. Tristan Braud](https://www.cse.ust.hk/~braudt/), and work in State Key Laboratory of Software Development Environment at Beihang University under the supervision of [Prof. Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/).
 
 A data-driven personal website
 ======
