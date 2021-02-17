@@ -19,11 +19,11 @@ author_profile: true
 *Anlan Zhang, Chendong Wang, Bo Han, Feng Qian*  
 To Appear In Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications (ACM HotMobile), 2021, Virtual.
 
-[**[MobiSys20] Poster: Mobile Volumetric Video Streaming Enhanced by Super Resolution**](https://dl.acm.org/doi/10.1145/3386901.3396598)
+[**[MobiSys20] Poster: Mobile Volumetric Video Streaming Enhanced by Super Resolution**](https://dl.acm.org/doi/10.1145/3386901.3396598)  
 *Anlan Zhang, Chendong Wang, Xing Liu, Bo Han, Feng Qian*  
 In Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services (ACM MobiSys), 2020, Toronto, Canada.
 
-[**[ICDEW19] Driving big data: A First Look at Driving Behavior Via a Large-scale Private Car Dataset**](https://ieeexplore.ieee.org/document/8750962)
+[**[ICDEW19] Driving big data: A First Look at Driving Behavior Via a Large-scale Private Car Dataset**](https://ieeexplore.ieee.org/document/8750962)  
 *Tong Li, Ahmad Alhilal, Anlan Zhang, Mohammad A Hoque, Dimitris Chatzopoulos, Zhu Xiao, Yong Li, Pan Hui*  
 In Proceedings of the 2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW), Macao, China.
 
