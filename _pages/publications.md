@@ -15,9 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-**[HotMobile21] Efficient Volumetric Video Streaming Through Super Resolution**  
+[**[HotMobile21] Efficient Volumetric Video Streaming Through Super Resolution**](https://dl.acm.org/doi/abs/10.1145/3446382.3448663)  
 *<strong>Anlan Zhang</strong>, Chendong Wang, Bo Han, Feng Qian*  
-To Appear In Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications (ACM HotMobile), 2021, Virtual.
+In Proceedings of the 22nd International Workshop on Mobile Computing Systems and Applications (ACM HotMobile), 2021, Virtual.
 
 [**[MobiSys20] Poster: Mobile Volumetric Video Streaming Enhanced by Super Resolution**](https://dl.acm.org/doi/10.1145/3386901.3396598)  
 *<strong>Anlan Zhang</strong>, Chendong Wang, Xing Liu, Bo Han, Feng Qian*  
