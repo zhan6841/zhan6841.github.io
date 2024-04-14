@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Student in the <strong>IMMERSE</strong> Lab @ <a href='https://minghsiehece.usc.edu/'>USC ECE</a>. 
 
 profile:
-  align: right
+  align: center
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
