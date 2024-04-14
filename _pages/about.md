@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in ECE @ <a href='https://www.usc.edu/'>USC</a>. 
+subtitle: PhD Student in the <strong>IMMERSE</strong> Lab @ <a href='https://minghsiehece.usc.edu/'>USC ECE</a>. 
 
 profile:
   align: right
@@ -18,11 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 5th-year Ph.D. candidate in the [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at [University of Southern California (USC)](https://www.usc.edu/). I am very honored to be advised by [Prof. Feng Qian](https://www-users.cs.umn.edu/~fengqian/). I also work closely with [Prof. Bo Han](https://cs.gmu.edu/~bohan/). My research interests include Networked System, Mobile Computing, VR/AR/MR. Before coming to USC, I spent the first four years of my Ph.D. at [University of Minnesota - Twin Cities (UMN)](https://twin-cities.umn.edu/). I got my bachelor degree from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), Beijing in 2019.
+I am a 5th-year Ph.D. student in the [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at [University of Southern California (USC)](https://www.usc.edu/). I am a member of the **IMMERSE** (Intelligent Mobile, Multimedia, and nEtwoRking SystEm) Lab at USC ECE and I am very honored to be advised by [Prof. Feng Qian](https://feng-qian.github.io/). I also work closely with [Prof. Bo Han](https://cs.gmu.edu/~bohan/). Before coming to USC, I spent the first four years of my Ph.D. at [University of Minnesota - Twin Cities (UMN)](https://twin-cities.umn.edu/). I got my bachelor degree from [Beihang University (BUAA)](https://ev.buaa.edu.cn/), Beijing in 2019.
+
+I am broadly interested in Multimedia Systems, ML for Systems, Mobile Systems, and Networking. My current research focuses on designing and optimizing emerging networked multimedia systems for, including but not limited to, immersive content (360 Video, AR/VR/MR, Volumetric Video) delivery, video conferencing, and image co-editing. 
 
 Email: anlanzha *at* usc *dot* edu
 
-You can find my CV [here](http://zhan6841.github.io/files/Anlan_Zhang_CV.pdf). 
+You can find my CV [here](). 
 
 <span style="color:red"> I am now actively looking for full-time positions. Feel free to let me know if you have any openings. </span>
 
