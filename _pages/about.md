@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student in the <strong>IMMERSE</strong> Lab @ <a href='https://minghsiehece.usc.edu/'>USC ECE</a>. 
 
@@ -15,6 +15,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+posts: false
 social: true # includes social icons at the bottom of the page
 ---
 
