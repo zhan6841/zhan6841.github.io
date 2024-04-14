@@ -162,8 +162,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: 
-    rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -231,6 +229,7 @@ exclude:
   - _pages/blog.md
   - _pages/dropdown.md
   - _pages/repositories.md
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
