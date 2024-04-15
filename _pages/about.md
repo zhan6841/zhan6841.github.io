@@ -24,7 +24,7 @@ I am broadly interested in Multimedia Systems, ML for Systems, Mobile Systems, a
 
 Email: anlanzha *at* usc *dot* edu
 
-You can find my CV [here](). 
+You can find my CV [here](http://zhan6841.github.io/assets/pdf/Anlan_Zhang_CV.pdf). 
 
 <span style="color:red"> I am now actively looking for full-time positions. Feel free to let me know if you have any openings. </span>
 
