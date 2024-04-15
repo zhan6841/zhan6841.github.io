@@ -1,63 +1,63 @@
-"Qian":
+"qian":
   - firstname: ["Feng", "F."]
     url: https://feng-qian.github.io/
 
-"Han":
+"han":
   - firstname: ["Bo", "B."]
     url: https://cs.gmu.edu/~bohan/
 
-"Wang":
+"wang":
   - firstname: ["Chengdong", "C."]
     url: https://cs.gmu.edu/~bohan/
 
-"Hassan":
+"hassan":
   - firstname: ["Ahmad", "A."]
     url: https://ahmadhassandebugs.github.io/
 
-"Zhang":
+"zhang":
   - firstname: ["Zhi-Li"]
     url: https://www-users.cse.umn.edu/~zhang089/
 
-"Narayanan": 
+"narayanan": 
   - firstname: ["Arvind", "A."]
     url: https://arvindn.com/
 
-"Zhu":
+"zhu":
   - firstname: ["Ruiyang"]
     url: https://ry4nzhu.github.io/
 
-"Mao":
+"mao":
   - firstname: ["Zhuoqing Morley", "Z. Morley"]
     url: https://web.eecs.umich.edu/~zmao/
 
-"Zhang":
+"zhang":
   - firstname: ["Xumiao", "X."]
     url: https://web.eecs.umich.edu/~xumiao/
 
-"Sun":
+"sun":
   - firstname: ["Jiachen", "J."]
     url: https://web.eecs.umich.edu/~jiachens/
 
-"Zhu":
+"zhu":
   - firstname: ["Xiao", "X."]
     url: https://xiaoshawnzhu.github.io/
 
-"Jin":
+"jin":
   - firstname: ["Shuowei", "S."]
     url: https://shuoweijin.com/
 
-"Hui":
+"hui":
   - firstname: ["Pan", "P."]
     url: https://panhui.people.ust.hk/index.html
 
-"Li":
+"li":
   - firstname: ["Tong", "T."]
     url: https://tong89.github.io/tongli.github.io/
 
-"Liu":
+"liu":
   - firstname: ["Xianglong", "X."]
     url: https://xlliu-beihang.github.io/
 
-"Liu":
+"liu":
   - firstname: ["Aishan", "A."]
     url: https://liuaishan.github.io/
