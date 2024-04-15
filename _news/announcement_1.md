@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper on enhancing immersive content delivery through full-body pose guided mmWave throughput prediction and multipath networking with omnidrectional and mmWave radios was accepted at NSDI'24.
+Paper on enhancing immersive content delivery through full-body pose guided mmWave throughput prediction and multipath networking was accepted at [NSDI'24](https://www.usenix.org/conference/nsdi24).
