@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>EEB 228</p>
-    <p>3650 McClintock Avenue</p>
+    <p>3650 McClintock Ave</p>
     <p>Los Angeles, CA, 90089</p>
 
 news: true # includes a list of news items
