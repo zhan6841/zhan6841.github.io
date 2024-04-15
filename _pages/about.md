@@ -26,7 +26,7 @@ Email: anlanzha *at* usc *dot* edu
 
 You can find my CV [here](https://zhan6841.github.io/assets/pdf/Anlan_Zhang_CV.pdf). 
 
-<span style="color:red"> I am now actively looking for full-time positions. Feel free to let me know if you have any openings. </span>
+<span style="color:red"> I am actively looking for full-time positions. Feel free to let me know if you have any openings. </span>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
