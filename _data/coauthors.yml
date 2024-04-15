@@ -7,7 +7,7 @@
     url: https://cs.gmu.edu/~bohan/
 
 "wang":
-  - firstname: ["Chengdong", "C."]
+  - firstname: ["Chendong", "C."]
     url: https://cs.gmu.edu/~bohan/
 
 "hassan":
@@ -15,7 +15,7 @@
     url: https://ahmadhassandebugs.github.io/
 
 "zhang":
-  - firstname: ["Zhi-Li"]
+  - firstname: ["Zhi-Li", "ZhiLi", "Z."]
     url: https://www-users.cse.umn.edu/~zhang089/
 
 "narayanan": 
@@ -23,11 +23,11 @@
     url: https://arvindn.com/
 
 "zhu":
-  - firstname: ["Ruiyang"]
+  - firstname: ["Ruiyang", "R."]
     url: https://ry4nzhu.github.io/
 
 "mao":
-  - firstname: ["Zhuoqing Morley", "Z. Morley"]
+  - firstname: ["Zhuoqing Morley", "Z. Morley", "Z Morley"]
     url: https://web.eecs.umich.edu/~zmao/
 
 "zhang":
@@ -52,6 +52,10 @@
 
 "li":
   - firstname: ["Tong", "T."]
+    url: https://tong89.github.io/tongli.github.io/
+
+"alhilal":
+  - firstname: ["Ahmad", "A.", "A. Y.", "Ahmad Yousef"]
     url: https://tong89.github.io/tongli.github.io/
 
 "liu":
