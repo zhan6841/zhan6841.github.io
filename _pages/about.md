@@ -8,7 +8,7 @@ profile:
   align: right
   image: profile.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
+  address: >
     <p>EEB 228</p>
     <p>McClintock Avenue</p>
     <p>Los Angeles, CA, 90089</p>
