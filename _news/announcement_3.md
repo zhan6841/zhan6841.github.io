@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper on multi-user mobile volumetric video streaming led by [Yu]() was conditionally accepted at MobiCom'24.
+Paper on multi-user mobile volumetric video streaming led by [Yu]() was conditionally accepted at [MobiCom'24](https://www.sigmobile.org/mobicom/2024/).
