@@ -9,6 +9,10 @@ nav_order: 3
 
 **Research Scientist/Engineer Intern @ Adobe Research, San Jose, CA**
 :   - Mentor: [Stefano Petrangeli](https://research.adobe.com/person/stefano-petrangeli/)
+    - May 2024 – Aug. 2024
+
+**Research Scientist/Engineer Intern @ Adobe Research, San Jose, CA**
+:   - Mentor: [Stefano Petrangeli](https://research.adobe.com/person/stefano-petrangeli/)
     - May 2023 – Jul. 2023
 
 **Software Engineer Intern @ RP Core - Video, Meta, Seattle, WA**
