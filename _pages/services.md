@@ -8,9 +8,12 @@ nav_order: 7
 ---
 
 **Conference Program Committee/Reviewer**
-:   - [USENIX NSDI 2025](https://www.usenix.org/conference/nsdi25): Pre-Review Task Force
-    - [ACM Multimedia 2024](https://2024.acmmm.org/): Reviewer
-    - [ACM SIGCOMM Workshop on Emerging Multimedia Systems (EMS) 2024](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/): Program Committee
+:   - [IEEE VR 2025](https://ieeevr.org/2025/): Reviewer
+    - [ACM WWW 2025](https://www2025.thewebconf.org/): Reviewer
+    - [ACM ImmerCom 2025](https://immercom.github.io/): Technical Program Committee
+    - [USENIX NSDI 2025](https://www.usenix.org/conference/nsdi25): Pre-Review Task Force
+    - [ACM Multimedia 2024](https://2024.acmmm.org/): Reviewer <span style="color:red">([Outstanding Reviewer](https://2024.acmmm.org/outstanding-ac-reviewer))</span>
+    - [ACM EMS 2024](https://conferences.sigcomm.org/sigcomm/2024/workshop/ems/): Program Committee
     - [USENIX ATC 2024](https://www.usenix.org/conference/atc24): External Review Committee
     - [ACM WWW 2023](https://www2023.thewebconf.org/): Subreviewer
 
