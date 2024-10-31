@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "An In-depth Study of Bandwidth Allocation across Media Sources in Video Conferencing" led by [Zejun]() received the <span style="color:red">Best Student Paper Award</span> (2 out of 4385 submissions) at [ACM Multimedia 2024](https://2024.acmmm.org/best-paper).
+Our paper "An In-depth Study of Bandwidth Allocation across Media Sources in Video Conferencing" led by [Zejun]() received the <span style="color:red">Best Student Paper Award (2 out of 4385 submissions)</span> at [ACM Multimedia 2024](https://2024.acmmm.org/best-paper).
