@@ -8,7 +8,8 @@ nav_order: 7
 ---
 
 **Conference Program Committee/Reviewer**
-:   - [ACM WWW 2025](https://www2025.thewebconf.org/): Reviewer
+:   - [IEEE IE 2025](https://www.ie2025.fraunhofer.de/): Technical Program Committee
+    - [ACM WWW 2025](https://www2025.thewebconf.org/): Reviewer
     - [IEEE VR 2025](https://ieeevr.org/2025/): Reviewer
     - [ACM ImmerCom 2025](https://immercom.github.io/): Technical Program Committee
     - [USENIX NSDI 2025](https://www.usenix.org/conference/nsdi25): Pre-Review Task Force
@@ -21,7 +22,8 @@ nav_order: 7
 :   - [ACM IoT 2024](https://iot-conference.org/iot2024): Publicity and Social Media Chairs
 
 **Journal Reviewer**
-:   - IEEE/ACM Transactions on Networking
+:   - ACM Transactions on Sensor Networks
+    - IEEE/ACM Transactions on Networking
     - IEEE Internet of Things Journal
     - IEEE Transactions on Mobile Computing
     - ACM Computing Surveys
