@@ -71,5 +71,17 @@
     url: https://liuaishan.github.io/
 
 "qiu":
-  - firstname: ["Hang", "Q."]
+  - firstname: ["Hang", "H."]
     url: https://hangqiu.github.io/
+
+"petrangeli":
+  - firstname: ["Stefano ", "S."]
+    url: https://research.adobe.com/person/stefano-petrangeli/
+
+"wang":
+  - firstname: ["Haoliang", "H."]
+    url: https://research.adobe.com/person/haoliang-wang/
+
+"shen":
+  - firstname: ["Yu", "Y."]
+    url: https://research.adobe.com/person/yu-shen/
