@@ -8,7 +8,10 @@ nav_order: 7
 ---
 
 **Conference Program Committee/Reviewer**
-:   - [IEEE IE 2025](https://www.ie2025.fraunhofer.de/): Technical Program Committee
+:   - [ACM Multimedia 2025](https://acmmm2025.org/): Reviewer
+    - [ICCV 2025](https://iccv.thecvf.com/): Reviewer
+    - [IEEE/RSJ IROS 2025](http://www.iros25.org/): Reviewer
+    - [IEEE IE 2025](https://www.ie2025.fraunhofer.de/): Technical Program Committee
     - [ACM WWW 2025](https://www2025.thewebconf.org/): Reviewer
     - [IEEE VR 2025](https://ieeevr.org/2025/): Reviewer
     - [ACM ImmerCom 2025](https://immercom.github.io/): Technical Program Committee
