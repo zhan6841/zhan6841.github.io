@@ -6,7 +6,7 @@
   - firstname: ["Bo", "B."]
     url: https://cs.gmu.edu/~bohan/
 
-"wang":
+"cdwang":
   - firstname: ["Chendong", "C."]
     url: https://cdwang96.github.io/
 
@@ -14,7 +14,7 @@
   - firstname: ["Ahmad", "A."]
     url: https://ahmadhassandebugs.github.io/
 
-"zhang":
+"zlzhang":
   - firstname: ["Zhi-Li", "ZhiLi", "Z."]
     url: https://www-users.cse.umn.edu/~zhang089/
 
@@ -22,7 +22,7 @@
   - firstname: ["Arvind", "A."]
     url: https://arvindn.com/
 
-"zhu":
+"ryzhu":
   - firstname: ["Ruiyang", "R."]
     url: https://ry4nzhu.github.io/
 
@@ -30,7 +30,7 @@
   - firstname: ["Zhuoqing Morley", "Z. Morley", "Z Morley"]
     url: https://web.eecs.umich.edu/~zmao/
 
-"zhang":
+"xmzhang":
   - firstname: ["Xumiao", "X."]
     url: https://web.eecs.umich.edu/~xumiao/
 
@@ -38,7 +38,7 @@
   - firstname: ["Jiachen", "J."]
     url: https://web.eecs.umich.edu/~jiachens/
 
-"zhu":
+"xzhu":
   - firstname: ["Xiao", "X."]
     url: https://xiaoshawnzhu.github.io/
 
@@ -62,11 +62,11 @@
   - firstname: ["Ahmad", "A.", "A. Y.", "Ahmad Yousef"]
     url: https://ahmad-hl.github.io/
 
-"liu":
+"xlliu":
   - firstname: ["Xianglong", "X."]
     url: https://xlliu-beihang.github.io/
 
-"liu":
+"asliu":
   - firstname: ["Aishan", "A."]
     url: https://liuaishan.github.io/
 
@@ -78,7 +78,7 @@
   - firstname: ["Stefano", "S."]
     url: https://research.adobe.com/person/stefano-petrangeli/
 
-"wang":
+"hlwang":
   - firstname: ["Haoliang", "H."]
     url: https://research.adobe.com/person/haoliang-wang/
 
