@@ -8,7 +8,9 @@ nav_order: 7
 ---
 
 **Conference Program Committee/Reviewer**
-:   - [IEEE GLOBECOM 2025](https://globecom2025.ieee-globecom.org/): Reviewer
+:   
+    - [ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/): Technical Program Committee
+    - [IEEE GLOBECOM 2025](https://globecom2025.ieee-globecom.org/): Reviewer
     - [ICCV 2025](https://iccv.thecvf.com/): Reviewer
     - [IEEE/RSJ IROS 2025](http://www.iros25.org/): Reviewer
     - [IEEE IE 2025](https://www.ie2025.fraunhofer.de/): Technical Program Committee
